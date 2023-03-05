@@ -1,0 +1,29 @@
+﻿body {
+    font-family: Arial;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border-radius: 8px;
+    border: 2px solid #555555;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #3e8e41;
+}
+
+.a {
+    color: red;
+}
+
+a:hover {
+    color: hotpink;
+}
